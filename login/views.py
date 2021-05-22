@@ -45,4 +45,3 @@ class RegistUser(APIView):
         )
 
         return Response(data)
-
